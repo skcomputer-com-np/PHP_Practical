@@ -9,7 +9,7 @@
 <body>
     <?php
         $name = "SomeName";
-        $value = "Indu";
+        $value = "Kajal";
         $expireDate = time() + (60 * 60 * 24 * 7);
 
         setcookie($name, $value);
